@@ -1,0 +1,28 @@
+header {
+    text-align: center;
+}
+
+header h1 {
+    font-size: 50px;
+}
+
+.choices {
+    text-align: center;
+}
+
+.choice {
+    display: inline-block;
+    margin: 30px;
+}
+
+.score-board {
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px 50px 30px 50px;
+}
+
+.badges {
+    font-weight: 600;
+}
